@@ -1,5 +1,8 @@
 # controle-estoque-app
-Aplicação exemplo simples em React para controle de estoque de produtos
+Repositório para aplicação exemplo de um controle de estoque simples utilizando o React e seus componentes. 😎
+
+## Objetivo
+Apresentar de forma simples e direta o [React js](https://pt-br.reactjs.org/docs/getting-started.html) e seus componetes para criar um aplicação Web de controle de estoque usando os beneficios de componetização do React JS
 
 # Getting Started with Create React App
 
